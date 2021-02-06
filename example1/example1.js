@@ -7,9 +7,9 @@ const puppeteer = require('puppeteer');
   // Abre uma nova Aba
   const page = await browser.newPage();
   // Vai para a página informada
-  await page.goto('https://webponto.norber.com.br/webpontoindra/default.asp');
+  await page.goto('https://pptr.dev/');
   // Tira um print da tela e salva no caminho do projeto
-  await page.screenshot({path: 'example1.png'});
+  await page.screenshot({ path: 'example1.png' });
   // fecha o browser
   await browser.close();
 })();
