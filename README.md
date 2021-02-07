@@ -63,7 +63,7 @@ Serve para todos os exemplos :
 
 ```bash
 # Clone este repositório dos exemplos ( aqui ja possui todos os exemplos )
-$ https://github.com/brunoemferreira/NodeJS-WebScraping-Puppeteer.git
+$ git clone https://github.com/brunoemferreira/NodeJS-WebScraping-Puppeteer.git
 ```
 
 <h4>Exemplo 1</h4>
