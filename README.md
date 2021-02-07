@@ -69,7 +69,7 @@ $ git clone https://github.com/brunoemferreira/NodeJS-WebScraping-Puppeteer.git
 <h4>Exemplo 1</h4>
 
 ```bash
-# Acesse a pasta backend
+# Acesse a pasta example1
 $ cd example1
 
 # execute o comando
@@ -79,7 +79,7 @@ $ node example1.js
 <h4>Exemplo 2</h4>
 
 ```bash
-# Acesse a pasta backend
+# Acesse a pasta example2
 $ cd example2
 
 # execute o comando
@@ -89,7 +89,7 @@ $ node example2.js
 <h4>Exemplo 3</h4>
 
 ```bash
-# Acesse a pasta backend
+# Acesse a pasta example3
 $ cd example3
 
 # execute o comando
